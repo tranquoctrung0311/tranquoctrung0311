@@ -13,10 +13,6 @@
 
 - 🌱 I’m learning **TypeScript, Next.js, and React Native**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/gnurtcouq)
-
-- 📝 I regularly write articles on [My Blog](https://blog.gnurtcouq.com)
-
 - 📫 How to reach me: **tranquoctrung0311@gmail.com**
 
 - ⚡ Fun fact: **I love coffee and solving coding challenges!**
